@@ -1,8 +1,6 @@
 git-gifi
 ========
 
-|travis|
-
 Git and github enhancements to git.
 
 --------------
